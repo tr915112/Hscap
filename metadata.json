@@ -1,0 +1,6 @@
+{
+  "name": "HSCAP SCANNER",
+  "description": "Automated data extractor for HSCAP documents. Extract personal and academic details from 4-column layouts using AI. Supports PDF and Word export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
